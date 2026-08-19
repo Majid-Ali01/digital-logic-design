@@ -167,21 +167,21 @@
 
 # 🧩 Skills Developing
 
-<div align="center">
+<div align="center"> <br>
 
-⚡ Logic Gates
+⚡ Logic Gates <br>
 ↓
-🔌 Digital ICs
+🔌 Digital ICs <br>
 ↓
-🧪 Breadboard Circuits
+🧪 Breadboard Circuits <br>
 ↓
-🖥️ Multisim Simulation
+🖥️ Multisim Simulation <br>
 ↓
-🔬 Hardware Testing
+🔬 Hardware Testing <br>
 ↓
-📊 Truth Table Verification
+📊 Truth Table Verification <br>
 ↓
-💻 Digital System Design
+💻 Digital System Design <br>
 
 </div>
 
