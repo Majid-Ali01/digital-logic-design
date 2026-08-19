@@ -167,7 +167,7 @@
 
 # 🧩 Skills Developing
 
-<div align="center"> <br>
+<div align="left"> <br>
 
 ⚡ Logic Gates <br>
 ↓
